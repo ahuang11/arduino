@@ -5,3 +5,5 @@ https://www.youtube.com/watch?v=rqyUVjFxdPA
 // Utilizes a photoresistor, ultrasonic sensor, and LED.
 
 // Could be used as a night light in the bathroom.
+
+![view](https://github.com/ahuang11/arduino/blob/master/night_light/view.jpg)
